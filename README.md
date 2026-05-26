@@ -1,6 +1,8 @@
 # Dollar Decline Hedge Analyzer 💵📉
 **Portfolio Project #10 | Asset Correlation | Python | yfinance | scipy**
 
+**[Live Dashboard →](https://dollar-losing-value-project-tedpoihphzohguurpsc7ak.streamlit.app/)**
+
 ## Results at a Glance
 
 | Asset | Outperformance During Weakness | DXY Correlation | Verdict |
